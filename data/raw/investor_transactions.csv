@@ -1,0 +1,11 @@
+transaction_id,investor_id,amfi_code,transaction_date,transaction_type,amount,state,kyc_status
+TXN001,INV001,125497,2026-06-20,SIP,5000,Telangana,Verified
+TXN002,INV002,119551,2026-06-20,Lumpsum,25000,Tamil Nadu,Verified
+TXN003,INV003,120503,2026-06-21,Redemption,10000,Karnataka,Pending
+TXN004,INV004,118632,2026-06-21,SIP,3000,Andhra Pradesh,Verified
+TXN005,INV005,119092,2026-06-22,Lumpsum,50000,Maharashtra,Verified
+TXN006,INV006,120841,2026-06-22,SIP,2000,Kerala,Pending
+TXN007,INV007,125497,2026-06-23,Redemption,7000,Delhi,Verified
+TXN008,INV008,119551,2026-06-23,SIP,4000,Telangana,Verified
+TXN009,INV009,120503,2026-06-24,Lumpsum,15000,Tamil Nadu,Verified
+TXN010,INV010,118632,2026-06-24,SIP,3500,Karnataka,Verified
